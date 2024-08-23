@@ -12,6 +12,8 @@ The Blinkit Sales Analysis dashboard offers a comprehensive view of the followin
 - *Average Sales per Outlet*: The average sales per outlet, calculated at $141.
 - *Average Customer Rating*: The average customer satisfaction rating, standing at 3.9 out of 5.
 
+![Dashboard image](https://github.com/user-attachments/assets/d3d2ef69-3f0d-470b-8abb-2b832fe50f88)
+
 ### Key Visualizations
 
 The dashboard includes the following visual components:
